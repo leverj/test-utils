@@ -1,6 +1,6 @@
 {
   "name": "test-utils.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "convenient methods for testing ",
   "main": "index.js",
   "scripts": {
