@@ -1,5 +1,5 @@
 {
-  "name": "test-utils",
+  "name": "test-utils.js",
   "version": "0.0.1",
   "description": "convenient methods for testing ",
   "main": "index.js",
