@@ -1,6 +1,11 @@
 # test-utils
 convenient methods for testing 
 
+## install
+```bash
+npm install --save-dev test-utils.js
+```
+
 ## Usage
 
 ```javascript
