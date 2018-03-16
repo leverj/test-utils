@@ -1,6 +1,6 @@
 {
   "name": "test-utils.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "convenient methods for testing ",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/leverj/test-utils/issues"
   },
-  "homepage": "https://github.com/leverj/test-utils#readme",
+  "homepage": "https://github.com/leverj/test-utils#README.md",
   "dependencies": {
     "lodash": "^4.17.5"
   }
